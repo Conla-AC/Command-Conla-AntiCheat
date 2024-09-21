@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Conla-AntiCheat PLUS",
+        "description": "ConlaAC By Conla is Command AntiCheat",
+        "uuid": "43691d5d-7006-4ed7-952f-597d9e4d574e",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 19, 50 ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "261fac0b-cb6b-47f1-97fb-cfef5986b7cb",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}

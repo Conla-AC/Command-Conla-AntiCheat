@@ -1,0 +1,11 @@
+{
+  "format_version": "1.20.41",
+  "minecraft:block": {
+    "description": {
+      "identifier": "execute as @a at @",
+      "register_to_creative_menu": true
+    },
+    "components": {
+    }
+  }
+}

@@ -1,0 +1,2 @@
+execute as @a at @s if entity @e[r=1,type=!player,type=!minecart,type=!boat] run tag @p add Entity
+execute as @a at @s unless entity @e[r=1,type=!player,type=!minecart,type=!boat] run tag @a[tag=Entity] remove Entity

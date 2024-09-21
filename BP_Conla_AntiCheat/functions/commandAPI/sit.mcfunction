@@ -1,0 +1,2 @@
+execute as @a at @s anchored eyes positioned ~~-1.28~ if entity @s[r=0.02] run tag @s add siting
+execute as @a at @s anchored eyes positioned ~~-1.28~ unless entity @s[r=0.02] run tag @s remove siting

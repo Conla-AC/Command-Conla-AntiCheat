@@ -1,0 +1,2 @@
+execute as @a at @s unless entity @s[x=~,y=~1.4,z=~,dx=0,dy=0,dz=0] run scoreboard players set @a standingBit 2   
+execute as @a at @s if entity @s[x=~,y=~1.4,z=~,dx=0,dy=0,dz=0] run scoreboard players set @a standingBit 0   

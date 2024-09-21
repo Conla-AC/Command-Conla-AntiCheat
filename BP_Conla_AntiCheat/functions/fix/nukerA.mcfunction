@@ -1,0 +1,1 @@
+execute as @a at @s if entity @a[scores={nukerA=14..15}] run kill @e[type=item,r=10]

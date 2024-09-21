@@ -1,0 +1,1 @@
+tellraw @a[tag=shift] {"rawtext":[{"text":"[ConlaACFun] 666 你是外挂 因为你蹲下了 vl:114514"}]}
